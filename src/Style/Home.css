@@ -1,0 +1,49 @@
+.Bg-image1{
+    background-image: url("C:\ReactProject\my-app\src\img\jenneys1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Bg-image2{
+     background-image: url("C:\ReactProject\my-app\src\img\1_PYmahal.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Bg-image3{
+    background-image: url("C:\ReactProject\my-app\src\img\akshaya.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.text{
+    padding: 300px;
+    font-size: larger;
+    font-weight: bold;
+    
+}
+ 
+button{
+    font-size: 40px;
+    border: 5px;
+    border-color: lawngreen;
+    border-radius: 30%;
+    border-style:groove;
+}
+.txt1{
+    font-weight: bolder;
+    font-size: 100px;
+   color:lawngreen
+}
+.txt2{
+    font-size: 95px;
+    font-weight: bold;
+    color:black
+}
+
+.para{
+   font-size: 80px;
+}

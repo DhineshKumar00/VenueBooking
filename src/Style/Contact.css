@@ -1,0 +1,8 @@
+.image{
+    background-image: url("C:\ReactProject\my-app\src\img\contactbg.avif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    backdrop-filter: blur;
+}

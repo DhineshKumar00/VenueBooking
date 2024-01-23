@@ -1,0 +1,40 @@
+.txt{
+    text-align: center;
+    color: bisque;
+}
+.para1{
+    justify-content: safe;
+    font-size: 30px;
+    color: aliceblue;
+}   
+.para2{
+    font-size: 35px;
+    color: white;
+}
+.bg{
+    background-image: url("C:\ReactProject\my-app\src\img\black.avif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    backdrop-filter: blur;
+}
+.qn1{
+    font-size: 40px;
+    font-weight: bold;
+    font-style: unset;
+    color:chartreuse
+}
+.ans1{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    color: white;
+}
+.down{
+    text-decoration:overline;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: beige;
+}

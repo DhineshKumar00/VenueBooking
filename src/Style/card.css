@@ -1,0 +1,11 @@
+.card{
+    background-image: url();
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display:flex;
+    height: 90vh;
+    flex-direction: column;
+    text-align: left;
+}
